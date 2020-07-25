@@ -1,0 +1,11 @@
+﻿{
+  "Id": "enhancedsurvival",
+  "DisplayName": "Enhanced Survival",
+  "Author": "DANjoTAK",
+  "Version": "0.0.1",
+  "Enable": true,
+  "AssemblyName": "EnhancedSurvival.dll",
+  "EntryMethod": "EnhancedSurvival.Main.Patch",
+  "Dependencies": [ "SMLHelper", "survivalframework" ],
+  "Game": "Subnautica"
+}
